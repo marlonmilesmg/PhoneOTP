@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "118440785118",
+    "firebase_url": "https://phoneotp-61d71.firebaseio.com",
+    "project_id": "phoneotp-61d71",
+    "storage_bucket": "phoneotp-61d71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118440785118:android:cba7cc6e18882fb56bfe4f",
+        "android_client_info": {
+          "package_name": "www.technoextreme.co.zw.phoneotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118440785118-45up66ameam8npgt2t3i1rutvnq1gc6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmWe6ZUg5M1-F6S7VsChUpGbTy0k-hyeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118440785118-45up66ameam8npgt2t3i1rutvnq1gc6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
